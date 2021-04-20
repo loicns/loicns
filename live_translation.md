@@ -5,3 +5,4 @@ Live translation model
     - Train network: https://www.youtube.com/watch?v=INawFGUy-nU
     - Predict: https://www.youtube.com/watch?v=cgkUcd-BFwA
     - Deployment
+    - - dockers
