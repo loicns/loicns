@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @loicns
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning Deep learning with Python in TensorFlow 2
-- 💞️ I’m looking to collaborate on Speech Recognition Systems and live translations
 - 📫 How to reach me nsabiyeloic@gmail.com
 
 <!---
